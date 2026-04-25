@@ -106,9 +106,12 @@ Awareness of common attack vectors
 Validation of security best practices (strong passwords, 2FA)
 Data for threat intelligence
 
-### 💻 Commands
+### Commands
 All commands used during installation, attack simulation, and log analysis:
 👉 [View Commands](commands-used.md)
+
+### Screenshots
+👉 [View Images](Screenshots.md)
 
 ### Disclaimer
 This project was conducted in a controlled lab environment for educational and research purposes only.
