@@ -111,7 +111,7 @@ All commands used during installation, attack simulation, and log analysis:
 👉 [View Commands](commands-used.md)
 
 ### Screenshots
-👉 [View Images](Screenshots.md)
+👉 [View Images](Screenshots)
 
 ### Disclaimer
 This project was conducted in a controlled lab environment for educational and research purposes only.
